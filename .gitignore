@@ -5,3 +5,4 @@ infer.py
 venv
 .vscode
 infer.py
+/model_for_nuclie_segmentation.h5

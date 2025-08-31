@@ -1,0 +1,7 @@
+/data-science-bowl-2018
+/logs
+/pred_masks
+infer.py
+venv
+.vscode
+infer.py

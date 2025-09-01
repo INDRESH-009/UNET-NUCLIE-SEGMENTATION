@@ -1,8 +1,8 @@
 /data-science-bowl-2018
 /logs
-/pred_masks
 infer.py
 venv
 .vscode
 infer.py
 /model_for_nuclie_segmentation.h5
+/model_for_nuclei_segmentation.keras

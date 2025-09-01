@@ -54,6 +54,12 @@ for n,id_ in tqdm(enumerate(test_ids),total=len(test_ids)):
     X_test[n] = img_resize
     
 print('Data preparation completed')
+
+img_rand = 30
+imshow(X_train[img_rand])
+plt.show()
+imshow(np.squeeze(Y_train[img_rand]))
+plt.show()
     
 # UNET IMPLEMENTATION
 
